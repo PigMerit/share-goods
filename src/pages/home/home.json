@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "个人主页",
+  "onReachBottomDistance": 10,
+  "backgroundTextStyle": "light",
+  "enablePullDownRefresh": true
+}
